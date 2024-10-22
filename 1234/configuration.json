@@ -7,7 +7,6 @@
     "primary4": 4283022369,
     "primary5": 4281313045,
     "primary6": 4278219008,
-    "primary7": 0,
     
     "secondary1": 4294309882,
     "secondary2": 4293784053,
@@ -22,19 +21,13 @@
     "secondary11": 4280428849,
     "secondary12": 4280033833,
 
-    "errorCircleGradientStart": 4294959234,
-    "errorCircleGradientEnd": 4292316672,
+    "yellow1": 4294959234,
+    "yellow2": 4292316672,
 
-    "scanDarkForeground": 4294967295,
-    "scanBackgroundLight": 2566914048,
-    "scanBackgroundDark": 2566914048,
+    "scrim1": 855638016,
+    "scrim3": 2566914048,
 
-    "nfcCoverLight": 0,
-    "nfcCoverDark": 4294967295,
-    "nfcPassportForegroundLight": 0,
-    "nfcPassportForegroundDark": 4280033833,
-    
-    "backgroundLight": 0,
-    "backgroundDark": 4280033833
+    "black": 4278190080,
+    "white": 4294967295
   }
 }
