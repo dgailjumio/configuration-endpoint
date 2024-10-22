@@ -1,0 +1,40 @@
+{
+  "logo": "",
+  "colors": {
+    "primary1": 4283742454,
+    "primary2": 4282949588,
+    "primary3": 4283940863,
+    "primary4": 4282222003,
+    "primary5": 4281429137,
+    "primary6": 4281362828,
+    "primary7": 0,
+    
+    "secondary1": 4294046193,
+    "secondary2": 4293256677,
+    "secondary3": 4292730333,
+    "secondary4:": 4291611852,
+    "secondary5": 4290493371,
+    "secondary6": 4289374890,
+    "secondary7": 4287137928,
+    "secondary8": 4284900966,
+    "secondary9": 4283782485,
+    "secondary10": 4282664004,
+    "secondary11": 4281545523,
+    "secondary12": 4279308561,
+
+    "errorCircleGradientStart": 4293452039,
+    "errorCircleGradientEnd": 4293437959,
+
+    "scanDarkForeground": 4294967295,
+    "scanBackgroundLight": 2566914048,
+    "scanBackgroundDark": 2566914048,
+
+    "nfcCoverLight": 1,
+    "nfcCoverDark": 0,
+    "nfcPassportForegroundLight": 1,
+    "nfcPassportForegroundDark": 0,
+    
+    "backgroundLight": 1,
+    "backgroundDark": 0
+  }
+}
